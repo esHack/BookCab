@@ -12,5 +12,5 @@ All the CAB and Customer details will be stored in a database.
 
 The following rest URL needs to called when the customer is booking a CAB
 
-http://localhsot:8080/getRide/customerid/latitude/longituge/sharing=true|false
+    http://localhsot:8080/getRide/customerid/latitude/longituge/sharing=true|false
 
